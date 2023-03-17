@@ -21,7 +21,7 @@ public class Battles : MonoBehaviour
     void SetBattle()
     {
         GameObject playerGO = Instantiate(player, playerBattle);
-        Instantiate(enemy, enemyBattle);
+        GameObject enemyGO = Instantiate(enemy, enemyBattle);
     }
 
     // Update is called once per frame
