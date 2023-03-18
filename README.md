@@ -31,3 +31,5 @@ Honestly, several members had SEVERE issues with some of the software that we us
 ## Contributions
 
 Daniel found the assets that are used in this game including: font, music, button image, textbox image, 3D models, and animations. Daniel also arranged the three levels in the game.
+
+Miguel made the scene transitions, assisted with importing a good majority of 3d models, made some scripts and experimented with them, made some aesthetic changes in the start scene. Fixed small errors.
